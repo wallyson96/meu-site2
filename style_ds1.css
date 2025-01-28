@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    padding: 0;
+    margin: 0;
+    display:-moz-inline-box ;
+    
+    
+
+}
+
+p {
+    color: yellow;
+
+}
+
+
+
+.header {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    margin: auto;
+    overflow: hidden;
+    font-size: 18px;
+    width: 80%;
+}
+
+.Menu {
+    float: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    text-align: center;
+}
+
+.logo {
+    float: none;
+    text-align: center;
+}
+
+li {
+
+    float: left;
+    margin: 15px;
+    text-align: center;
+}
+
+.textoeimg {
+
+    margin-bottom: 50px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.img1 {
+    float: left;
+    margin: 5px;
+}
+
+.img2 {
+    float: right;
+    margin: 5px;
+    width: 300px;
+    height: 300px;
+
+
+}
+
+form {
+    color: red;
+    margin: auto;
+    float: left;
+}
+
+hr {
+    width: 500px;
+    height: 2px;
+    background-color: blue;
+}
+.seleçao{
+    margin: 35px;
+    background-color: rgb(208, 230, 231);
+    height: 80px;
+    color: blue;
+    
+}
